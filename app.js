@@ -4,7 +4,6 @@ const fs = require('fs');
 const path = require('path');
 const bcrypt = require('bcryptjs');
 const app = express();
-require('dotenv').config();
 
 app.set('view engine', 'ejs');
 app.use(express.urlencoded({ extended: true }));

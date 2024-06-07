@@ -1,8 +1,7 @@
 ## Info
 
-`This project is intended for testing with` [`Render`](https://render.com) `and will not be improved or maintained`
+`This is a Node.js project using the Express framework to create a sample registration and login system`
 
-`This is just a simple test`
 <hr>
 
 # `Tools`

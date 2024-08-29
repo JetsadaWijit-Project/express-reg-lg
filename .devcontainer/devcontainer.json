@@ -3,18 +3,18 @@
     "customizations": {
         "vscode": {
             "settings": {
-                "workbench.colorTheme": "Default Dark Modern" // Dark Modern
+                "workbench.colorTheme": "Default Dark Modern"
             },
             "extensions": [
-                "ms-azuretools.vscode-docker", // Docker
-                "github.copilot", // Github Copilot
-                "alefragnani.bookmarks", // Book Marks
-                "eamodio.gitlens", // GitLens
-                "eg2.vscode-npm-script", // npm
-                "dbaeumer.vscode-eslint", // ESLint
-                "christian-kohler.npm-intellisense", // npm Intellisense
-                "christian-kohler.path-intellisense", // Path Intellisense
-                "streetsidesoftware.code-spell-checker" // Code Spell Checker
+                "ms-azuretools.vscode-docker",
+                "github.copilot",
+                "alefragnani.bookmarks",
+                "eamodio.gitlens",
+                "eg2.vscode-npm-script",
+                "dbaeumer.vscode-eslint",
+                "christian-kohler.npm-intellisense",
+                "christian-kohler.path-intellisense",
+                "streetsidesoftware.code-spell-checker"
             ]
         }
     }
